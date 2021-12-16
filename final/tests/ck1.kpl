@@ -1,0 +1,11 @@
+Program Bai1;
+Var a, S: Integer;
+Begin
+S := 0;
+a := 10;
+While a > 0 Do
+Begin
+S := S + a;
+a--;
+End;
+End.

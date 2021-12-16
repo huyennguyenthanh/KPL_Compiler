@@ -1,0 +1,7 @@
+Cách run file:
+
+make
+
+./scanner ./test/example1.kpl
+
+make clean

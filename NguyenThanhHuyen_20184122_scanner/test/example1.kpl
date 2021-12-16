@@ -1,0 +1,7 @@
+Program Example1; (* Example 1 *)
+var y:integer;
+z:integer;
+Begin
+y:= readI;
+z:=y;
+End. (* Example 1 *)
